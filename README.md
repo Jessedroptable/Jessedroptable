@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jessedroptable
-- 👀 I’m interested in Linux, Open Source Software, System Administration & Engineering, DevOps, and Cloud
+- 👀 I’m interested in Linux, Open Source Software, System Administration & Engineering, DevOps, AI/LLM and Cloud
 
 
 <!---
